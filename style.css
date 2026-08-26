@@ -90,7 +90,7 @@ body {
 #rule2 {
   height: 6px;
   background: rgb(0, 255, 244);
-  background: -moz-linear-gradient(90deg, #ffb2ff, #40f2ec #dff7bd);
+  background: -moz-linear-gradient(90deg, #ffb2ff, #40f2ec, #dff7bd);
   background: -webkit-linear-gradient(90deg, #ffb2ff, #40f2ec, #dff7bd);
   background: linear-gradient(90deg, #ffb2ff, #40f2ec, #dff7bd);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#dff7bd", endColorstr="#ffb2ff", GradientType=1);
